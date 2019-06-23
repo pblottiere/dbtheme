@@ -1,6 +1,6 @@
 # dbtheme
 
-Dark and Blue QGIS Theme
+Dark and Blue QGIS Theme inspired by Night Mapping core theme.
 
 ## Install
 
